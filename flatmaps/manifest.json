@@ -1,6 +1,7 @@
 {
     "id": "Blood-Pressure-Control",
     "kind": "functional",
+    "properties": "properties.json",
     "sources": [
         {
             "id": "BP_model",

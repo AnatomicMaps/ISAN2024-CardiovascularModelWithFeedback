@@ -1,0 +1,67 @@
+{
+    "features": {
+        "BP_model/SHAPE_8": {
+            "label": "CARDIOVASCULAR SYSTEM"
+        },
+        "BP_model/SHAPE_43": {
+            "label": "$q_{aveoli}^{CO_{2}}\\quad u_{acinus}^{air}\\quad q_{aveoli}^{O_2}$"
+        },
+        "BP_model/SHAPE_60": {
+            "label": "$u_{atmos}^{CO_{2}}\\quad u_{atmos}^{air}\\quad u_{atmos}^{O_2}$"
+        },
+        "BP_model/SHAPE_119": {
+            "label": "$q_{GB.cap}^A$"
+        },
+        "BP_model/SHAPE_125": {
+            "label": "$u_{PB.cap}^B$"
+        },
+        "BP_model/SHAPE_168": {
+            "label": "FTU: PT $\\mathsf{1^{st}}$ seg"
+        },
+        "BP_model/SHAPE_186": {
+            "label": "FTU: PT $\\mathsf{2^{nd}}$ seg"
+        },
+        "BP_model/SHAPE_192": {
+            "label": "$v_{tubule}^{Urine}$"
+        },
+        "BP_model/SHAPE_269": {
+            "label": "$q_{m.cell}^{O_2}$"
+        },
+        "BP_model/SHAPE_302": {
+            "label": "$u_{m.cap}^{CO_2}\\quad u_{m.cap}^{b}\\quad u_{m.cap}^{O_2}\\quad u_{m.cap}^{Glc}$"
+        },
+        "BP_model/SHAPE_557": {
+            "label": "$u_{l.cap}^{CO_{2}}\\quad u_{l.cap}^b\\quad u_{l.cap}^{O_2}$"
+        },
+        "cardiac-myocyte/SHAPE_8": {
+            "label": "$\\mathsf{pH}$ regulation"
+        },
+        "cardiac-myocyte/SHAPE_10": {
+            "label": "$\\ce{Ca}\\ $handling"
+        },
+        "cardiac-myocyte/SHAPE_183": {
+            "label": "$\\mathsf{I}_\\mathsf{{Nab}}$"
+        },
+        "cardiac-myocyte/SHAPE_331": {
+            "label": "$\\mathsf{Ca}_\\mathsf{pump}$"
+        },
+        "cardiac-myocyte/SHAPE_606": {
+            "label": "$H^{+}\\mathsf{buffer}$"
+        },
+        "cardiac-myocyte/SHAPE_622": {
+            "label": "$q_{i}^{H^{+}buffer}$"
+        },
+        "cardiac-myocyte/SHAPE_854": {
+            "label": "$\\ce{Ca2+}\\ $activated thin filament"
+        },
+        "cardiac-myocyte/SHAPE_928": {
+            "label": "Force balance"
+        },
+        "cardiac-myocyte/SHAPE_1005": {
+            "label": "Attached cross-bridges"
+        },
+        "cardiac-myocyte/SHAPE_1009": {
+            "label": "XB energy transduction"
+        }
+    }
+}
