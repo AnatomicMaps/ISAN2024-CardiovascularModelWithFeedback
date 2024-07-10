@@ -1,16 +1,16 @@
 {
-    "id": "Blood-Pressure-Control",
+    "id": "pmr:CardiovascularModelWithFeedback",
     "kind": "functional",
     "properties": "properties.json",
     "sources": [
         {
             "id": "BP_model",
-            "href": "Gee et al systems model v5.svg",
+            "href": "Gee et al systems model v6.svg",
             "kind": "base"
         },
         {
             "id": "cardiac-myocyte",
-            "href": "Cardiomyocyte v5.svg",
+            "href": "Cardiomyocyte v6.svg",
             "kind": "detail",
             "feature": "BP_model/FTU: Cardiomyocyte",
             "zoom": 7

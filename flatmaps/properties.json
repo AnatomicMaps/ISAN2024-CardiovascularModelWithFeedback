@@ -1,37 +1,69 @@
 {
     "features": {
-        "BP_model/SHAPE_8": {
-            "label": "CARDIOVASCULAR SYSTEM"
+        "BP_model/SHAPE_29": {
+            "label": "$\\mathsf{lcn}$"
         },
-        "BP_model/SHAPE_43": {
+        "BP_model/SHAPE_31": {
+            "label": "$\\mathsf{lcn}$"
+        },
+        "BP_model/SHAPE_66": {
             "label": "$q_{aveoli}^{CO_{2}}\\quad u_{acinus}^{air}\\quad q_{aveoli}^{O_2}$"
         },
-        "BP_model/SHAPE_60": {
+        "BP_model/SHAPE_83": {
             "label": "$u_{atmos}^{CO_{2}}\\quad u_{atmos}^{air}\\quad u_{atmos}^{O_2}$"
         },
-        "BP_model/SHAPE_119": {
-            "label": "$q_{GB.cap}^A$"
+        "BP_model/SHAPE_135": {
+            "label": "$q_{GB.cap}^B$"
         },
-        "BP_model/SHAPE_125": {
-            "label": "$u_{PB.cap}^B$"
+        "BP_model/SHAPE_141": {
+            "label": "$u_{PB.cap}^A$"
         },
-        "BP_model/SHAPE_168": {
+        "BP_model/SHAPE_184": {
             "label": "FTU: PT $\\mathsf{1^{st}}$ seg"
         },
-        "BP_model/SHAPE_186": {
+        "BP_model/SHAPE_202": {
             "label": "FTU: PT $\\mathsf{2^{nd}}$ seg"
         },
-        "BP_model/SHAPE_192": {
-            "label": "$v_{tubule}^{Urine}$"
-        },
-        "BP_model/SHAPE_269": {
+        "BP_model/SHAPE_282": {
             "label": "$q_{m.cell}^{O_2}$"
         },
-        "BP_model/SHAPE_302": {
+        "BP_model/SHAPE_315": {
             "label": "$u_{m.cap}^{CO_2}\\quad u_{m.cap}^{b}\\quad u_{m.cap}^{O_2}\\quad u_{m.cap}^{Glc}$"
         },
-        "BP_model/SHAPE_557": {
+        "BP_model/SHAPE_531": {
+            "label": "$v_{portal\\;vein}^{Blood}$"
+        },
+        "BP_model/SHAPE_565": {
             "label": "$u_{l.cap}^{CO_{2}}\\quad u_{l.cap}^b\\quad u_{l.cap}^{O_2}$"
+        },
+        "BP_model/SHAPE_794": {
+            "label": "$K_{lcn}^{RVLM}$"
+        },
+        "BP_model/SHAPE_798": {
+            "label": "$K_{lcn}^{br}$"
+        },
+        "BP_model/SHAPE_903": {
+            "label": "$K_{NA}^{pr}$"
+        },
+        "BP_model/SHAPE_907": {
+            "label": "$K_{NA}^{cr}$"
+        },
+        "BP_model/SHAPE_911": {
+            "label": "$K_{NA}^{br}$"
+        },
+        "BP_model/SHAPE_921": {
+            "label": "$K_{DMV}^{cr}$"
+        },
+        "BP_model/SHAPE_925": {
+            "label": "$K_{DMV}^{br}$"
+        },
+        "cardiac-myocyte/SHAPE_6": {
+            "hyperlinks": [
+                {
+                    "id": "wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/Cardiac_action_potential"
+                }
+            ]
         },
         "cardiac-myocyte/SHAPE_8": {
             "label": "$\\mathsf{pH}$ regulation"
