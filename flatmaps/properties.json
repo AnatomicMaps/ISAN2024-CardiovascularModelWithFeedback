@@ -31,7 +31,7 @@
             "label": "$u_{m.cap}^{CO_2}\\quad u_{m.cap}^{b}\\quad u_{m.cap}^{O_2}\\quad u_{m.cap}^{Glc}$"
         },
         "BP_model/SHAPE_531": {
-            "label": "$v_{portal\\;vein}^{Blood}$"
+            "label": "$v_{portal\\,vein}^{Blood}$"
         },
         "BP_model/SHAPE_565": {
             "label": "$u_{l.cap}^{CO_{2}}\\quad u_{l.cap}^b\\quad u_{l.cap}^{O_2}$"
