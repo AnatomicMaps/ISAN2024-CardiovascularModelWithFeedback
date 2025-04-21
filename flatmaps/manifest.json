@@ -1,5 +1,6 @@
 {
     "id": "pmr:CardiovascularModelWithFeedback",
+    "models": "pmr:CardiovascularModelWithFeedback",
     "kind": "functional",
     "properties": "properties.json",
     "sources": [
