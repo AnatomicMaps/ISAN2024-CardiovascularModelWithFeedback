@@ -12,7 +12,7 @@
         {
             "id": "cardiac-myocyte",
             "href": "Cardiomyocyte v6.svg",
-            "kind": "detail",
+            "kind": "functional",
             "feature": "BP_model/FTU: Cardiomyocyte",
             "zoom": 6
         }
